@@ -1,0 +1,2 @@
+# fastcgi
+nginx -- webserver -- cgi 
